@@ -1,0 +1,47 @@
+
+
+body{
+    margin: 0 auto;
+    padding: 0;
+    background-color: aqua;
+}
+
+.a_navbar{
+    width: 100%;
+    min-height: 70px;
+    float: left;
+    background-color: rgb(255, 0, 98);
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.aNav{
+    width: 100%;
+    min-height: 500px;
+    float: left;
+    background-color: rgb(255, 0, 98);
+}
+
+.aNav2{
+    width: 100%;
+    min-height: 500px;
+    float: left;
+    background-color:rgb(255, 0, 98);
+
+}
+
+.aNav3{
+    width: 100%;
+    min-height: 500px;
+    float: left;
+    background-color:rgb(255, 0, 98);
+
+}
+
+.a_footer{
+    width: 100%;
+    min-height: 70px;
+    float: left;
+    background-color:rgb(255, 0, 98);
+    margin-top: 20px;
+
+}
